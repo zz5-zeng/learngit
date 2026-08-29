@@ -3,8 +3,8 @@ from __future__ import annotations
 import os
 from pathlib import Path
 
-APP_NAME = 'Codex打卡助手'
-WINDOW_TITLE = 'Codex打卡助手'
+APP_NAME = '打卡助手'
+WINDOW_TITLE = '打卡助手'
 WINDOW_SIZE = (760, 720)
 
 DATA_DIR_NAME = 'codex_punch_clock'
